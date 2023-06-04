@@ -1,0 +1,12 @@
+
+.header {
+  text-align: left;
+  .logo {
+    width: 100px;
+    
+  }
+}
+
+.main-block {
+  padding: 0 20px;
+}
